@@ -21,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ['fro0zzy', "Кто это?", "Ебаный пидорас", "Влюблённая хуйня", "Недо-пастер", "Гей"],
+        strings: ['fro0zzy', "Kto eto?", "VLad", "13 y.o", "nedo-past3r", "html/css/js noob"],
         typeSpeed: 100,
         loop: true,
         cursorChar: "|",
